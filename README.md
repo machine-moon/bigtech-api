@@ -1,7 +1,5 @@
 # BigTech API Sandbox
 
-Welcome to the BigTech API Sandbox repository! This is a space where I experiment with various APIs, machine learning models, and other cool technology projects.
-
 ## Projects Overview
 
 - **Gemini**: Contains Python scripts and model configurations.
